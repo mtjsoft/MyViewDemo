@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcView">
+        <attr name="arc_height" format="dimension"/>
+        <attr name="arc_bgColor" format="color|reference"/>
+        <attr name="arc_wave_height" format="dimension"/>
+        <attr name="arc_wave_color" format="color|reference"/>
+    </declare-styleable>
+</resources>
